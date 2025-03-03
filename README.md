@@ -30,7 +30,7 @@ Each section includes **theory**, **code implementation**, and **visual results*
 
 ## 🔍 Example Results  
 📷 **Edge Detection Example**  
-<img src="results/edge_detection.png" width="500">  
+<img src="results/edge-detection.png" width="500">  
 
 📷 **Object Retrieval Example**  
-<img src="results/image_retrieval.png" width="500">  
+<img src="results/image-retrival.png" width="500">  
