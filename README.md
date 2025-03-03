@@ -34,9 +34,3 @@ Each section includes **theory**, **code implementation**, and **visual results*
 
 📷 **Object Retrieval Example**  
 <img src="results/image_retrieval.png" width="500">  
-
-## 🛠️ Setup & Usage  
-### Installation  
-Ensure you have Python 3 and install dependencies:  
-```bash
-pip install -r requirements.txt
