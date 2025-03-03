@@ -28,7 +28,7 @@ Each section includes **theory**, **code implementation**, and **visual results*
 - Evaluating accuracy of object identification  
 - Comparing retrieval techniques  
 
-## 🔍 Example Results  
+## 
 📷 **Edge Detection Example**  
 <img src="results/edge-detection.png" width="500">  
 
